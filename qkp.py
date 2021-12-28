@@ -180,7 +180,7 @@ def qknapsack(datafile):
   print('Número de vértices: ', round(model.NodeCount,2))
 
 if __name__ == "__main__":
-  datafile = "instances/50/50_100_1.txt"
+  datafile = "instances/qkp/50/50_100_1.txt"
 
   if len(sys.argv) < 2:
     print("Default data file : " + datafile)
