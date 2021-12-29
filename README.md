@@ -1,2 +1,2 @@
-# opt_lab
+# laboratory
 códigos desenvolvidos em classes.
