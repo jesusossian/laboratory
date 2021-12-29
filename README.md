@@ -1,2 +1,2 @@
 # opt_lab
-códigos desenvolvidos em sala de aula.
+códigos desenvolvidos em classes.
