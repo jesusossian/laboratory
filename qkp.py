@@ -139,8 +139,8 @@ def qknapsack(datafile):
   #model.Params.method = 1
   #model.Params.NodeMethod = -1 #  -1=automatic, 0=primal simplex, 1=dual simplex, and 2=barrier
   model.Params.Threads = 1
-#  model.Params.Presolve = 0
-#  model.Params.Cuts = 0
+  model.Params.Presolve = 0
+  model.Params.Cuts = 0
 #  model.Params.PreCrush = 1
 
   # Turn off display and heuristics
